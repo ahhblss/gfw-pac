@@ -17096,7 +17096,8 @@ var domainsUsingProxy = {
   "zyzc9.com": 1,
   "zzcartoon.com": 1,
   "zzcloud.me": 1,
-  "zzux.com": 1
+  "zzux.com": 1,
+  "baomidou.com":1
 };
 
 var localTlds = {
